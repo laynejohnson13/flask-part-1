@@ -3,6 +3,6 @@
 This is the flask application assignment repo
 
 
-GCP URL - http://10.128.0.4
+GCP URL - http://34.132.141.236/
 
-Azure URL -
+Azure URL - http://20.169.80.206/
